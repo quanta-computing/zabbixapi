@@ -355,6 +355,8 @@ zbx.query(
 )
 ```
 
+### Interfaces
+
 ## Dependencies
 
 * net/http
